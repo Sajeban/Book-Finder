@@ -1,4 +1,4 @@
-# ![logo](https://github.com/user-attachments/assets/fcfc3f55-05e5-4800-8cd1-b0f919d005d4) 
+# ![logo](https://github.com/user-attachments/assets/fcfc3f55-05e5-4800-8cd1-b0f919d005d4)
 
 Find your next read effortlessly with **Book Finder**, a sleek Next.js app that taps into the Google Books API. Search, browse, and discover books with ease using a responsive and intuitive interface.
 
@@ -11,7 +11,7 @@ Find your next read effortlessly with **Book Finder**, a sleek Next.js app that 
 
 Before you start, ensure you have the following installed:
 
-- **Node.js:** Version 18.x  
+- **Node.js:** Version 18.x
 - **Next.js:** Version 14.2
 
 ---
@@ -23,12 +23,14 @@ To install the necessary Node modules, run the following command:
 ```bash
 npm install
 ```
+
 To run the application
 
 ```bash
 npm run dev
 
 ```
+
 ---
 
 ## ✨ **Features**
@@ -68,6 +70,7 @@ The image, publish date, full author names, rating, and page count are displayed
 <img width="600" alt="404 Page" src="https://github.com/user-attachments/assets/008e07ac-ce42-4881-8ecc-3c358eca776f">
 
 ### Books Without Image
+
 A placeholder image is used for these books.
 
 <img width="260" alt="Placeholder Image" src="https://github.com/user-attachments/assets/0b6fd5ba-3b4e-4c41-88e2-ca1508e34a2d">
@@ -135,8 +138,6 @@ I planned to implement pagination like this:
 However, due to the inconsistency in totalItems returned by the Google Books API, caused by open search on each request, it creates issues in generating reliable pagination numbers. A more robust handling method is required.
 I am keeping this as an improvement due to time constraint.
 
-
 For more details, refer to this [discussion on Stack Overflow](https://stackoverflow.com/questions/76799691/google-books-api-erroneously-incrementing-totalitems-returned).
 
 ---
-

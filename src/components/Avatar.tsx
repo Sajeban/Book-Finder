@@ -23,7 +23,7 @@ const Avatar = ({
 
   return (
     <div
-      className={`wil-avatar relative inline-flex flex-shrink-0 items-center justify-center overflow-hidden font-semibold uppercase text-neutral-100 shadow-inner ${radius} ${sizeClass} ${containerClassName}`}
+      className={`relative inline-flex flex-shrink-0 items-center justify-center overflow-hidden font-semibold uppercase text-neutral-100 shadow-inner ${radius} ${sizeClass} ${containerClassName}`}
       style={{ backgroundColor: url ? undefined : _setBgColor() }}
     >
       {url && <img className="absolute inset-0 h-full w-full object-cover" src={url} alt={name} />}

@@ -26,7 +26,7 @@ const Button = ({
   onClick = () => {},
   id = '',
 }: ButtonProps) => {
-  const CLASSES = `nc-Button relative h-auto inline-flex items-center justify-center rounded-full transition-colors ${fontSize} ${sizeClass} ${translate} ${className} `;
+  const CLASSES = `relative h-auto inline-flex items-center justify-center rounded-full transition-colors ${fontSize} ${sizeClass} ${translate} ${className} `;
 
   return (
     <button
