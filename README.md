@@ -3,7 +3,7 @@
 Find your next read effortlessly with **Book Finder**, a sleek Next.js app that taps into the Google Books API. Search, browse, and discover books with ease using a responsive and intuitive interface.
 
 🚀 **Deployed Application:**  
-[https://book-finder-temp-eta.vercel.app/](https://book-finder-temp-eta.vercel.app/) 🌐
+[https://book-finder-peach.vercel.app/](https://book-finder-peach.vercel.app/) 🌐
 
 ---
 
@@ -68,10 +68,15 @@ The image, publish date, full author names, rating, and page count are displayed
 <img width="600" alt="404 Page" src="https://github.com/user-attachments/assets/008e07ac-ce42-4881-8ecc-3c358eca776f">
 
 ### Books Without Image
+A placeholder image is used for these books.
 
 <img width="260" alt="Placeholder Image" src="https://github.com/user-attachments/assets/0b6fd5ba-3b4e-4c41-88e2-ca1508e34a2d">
 
 ### Well-Formatted Descriptions
+
+Try these links -  
+[https://book-finder-peach.vercel.app/Lh4YEAAAQBAJ](https://book-finder-peach.vercel.app/Lh4YEAAAQBAJ)
+[https://book-finder-peach.vercel.app/VyDVxwEACAAJ](https://book-finder-peach.vercel.app/VyDVxwEACAAJ)
 
 <img width="600" alt="Formatted Description" src="https://github.com/user-attachments/assets/df6fc508-7950-4d17-953c-042386c5102e">
 
