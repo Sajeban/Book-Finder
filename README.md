@@ -132,7 +132,8 @@ I planned to implement pagination like this:
 
 <img width="700" alt="Pagination Plan" src="https://github.com/user-attachments/assets/67262e56-c8f2-40ce-9f97-51319ce68b1e">
 
-However, due to the inconsistency in `totalItems` returned by the Google Books API, it creates issues in generating reliable pagination numbers. A more robust handling method is required, but I was unable to complete this within the current timeframe.
+However, due to the inconsistency in totalItems returned by the Google Books API, caused by open search on each request, it creates issues in generating reliable pagination numbers. A more robust handling method is required, but I was unable to complete this within the current timeframe.
+
 
 For more details, refer to this [discussion on Stack Overflow](https://stackoverflow.com/questions/76799691/google-books-api-erroneously-incrementing-totalitems-returned).
 
