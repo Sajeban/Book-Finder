@@ -4,7 +4,7 @@ function RatingComponent({ rating }: { rating: string }) {
   return (
     <div className="flex flex-row items-center space-x-2.5">
       <div
-        className={`group relative flex h-9 min-w-[68px] items-center rounded-full bg-rose-50 px-4 text-sm leading-none text-rose-600 transition-colors`}
+        className={`group relative flex h-9 min-w-[68px] items-center rounded-full bg-rose-50 px-4 text-sm leading-none text-rose-600`}
       >
         <svg width="24" height="24" fill={'currentColor'} viewBox="0 0 24 24">
           <path

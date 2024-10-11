@@ -149,6 +149,7 @@ const Home = () => {
         </div>
       )}
 
+      {/*Populate the fetched books*/}
       {books.length > 0 && (
         <div>
           <h2 className="flex justify-center font-mono text-xl font-light tracking-tighter text-[#0074D9] md:text-3xl">
