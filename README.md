@@ -74,9 +74,7 @@ A placeholder image is used for these books.
 
 ### Well-Formatted Descriptions
 
-Try these links -  
-[https://book-finder-peach.vercel.app/Lh4YEAAAQBAJ](https://book-finder-peach.vercel.app/Lh4YEAAAQBAJ)
-[https://book-finder-peach.vercel.app/VyDVxwEACAAJ](https://book-finder-peach.vercel.app/VyDVxwEACAAJ)
+Try these links - [books/Lh4YEAAAQBAJ](https://book-finder-peach.vercel.app/books/Lh4YEAAAQBAJ) | [books/VyDVxwEACAAJ](https://book-finder-peach.vercel.app/books/VyDVxwEACAAJ)
 
 <img width="600" alt="Formatted Description" src="https://github.com/user-attachments/assets/df6fc508-7950-4d17-953c-042386c5102e">
 
