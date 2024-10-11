@@ -45,6 +45,8 @@ npm run dev
 
 ---
 
+## 📸 **Screen Recording**
+[Link](https://drive.google.com/drive/folders/1JqYQFI75z5zJwghsMnxzr9axOnqofKhx?usp=sharing)
 ## 📸 **Screenshots**
 
 ### Home Page
