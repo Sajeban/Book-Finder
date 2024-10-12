@@ -36,7 +36,7 @@ npm run dev
 ## ✨ **Features**
 
 - **Google Books API Integration:** Fetch and display detailed book information.
-- **Responsive Design:** Beautiful and responsive UI built with Tailwind CSS for both mobile and desktop.
+- **Responsive Design:** Responsive UI built with Tailwind CSS for both mobile and desktop.
 - **Loading and Error Handling:** Displays smooth loading animations and provides detailed error messages for scenarios like book not found or API rate limit issues.
 - **Paginated Results:** Fetches and displays paginated book results.
 - **Custom Theme:** Styled using Tailwind with primary color `#0074D9`.
@@ -45,6 +45,8 @@ npm run dev
 
 ---
 
+## 📸 **Screen Recording**
+[Link](https://drive.google.com/drive/folders/1JqYQFI75z5zJwghsMnxzr9axOnqofKhx?usp=sharing)
 ## 📸 **Screenshots**
 
 ### Home Page
