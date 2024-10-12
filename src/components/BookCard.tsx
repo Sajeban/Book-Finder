@@ -25,11 +25,9 @@ const BookCard = ({ className = 'h-full', book }: CardProps) => {
         {/* Content */}
         <div className="flex flex-grow flex-col space-y-3 p-4">
           <h2 className="block text-base font-semibold text-neutral-900">
-            <Link href={`/books/${book.id}`}>
-              <span className="line-clamp-2" title={book.title}>
-                {book.title}
-              </span>
-            </Link>
+            <span className="line-clamp-2" title={book.title}>
+              {book.title}
+            </span>
           </h2>
           <p className="truncate text-xs text-neutral-500">By: {book.authors.join(', ')}</p>
           <p className="text-xs text-neutral-500">Published: {book.publishedDate}</p>
